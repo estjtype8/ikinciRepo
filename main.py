@@ -14,3 +14,4 @@ if __name__ == '__main__':
     print_hi('LALALAfhhhfghfhfhfhf')
     print('naber')
     print('selam')
+    print('heloo')
